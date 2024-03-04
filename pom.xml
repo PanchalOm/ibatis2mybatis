@@ -61,6 +61,9 @@
   </distributionManagement>
 
   <properties>
+
+    <sonar.login>admin</sonar.login>
+    <sonar.password>op14092003</sonar.password>   
     <clirr.comparisonVersion>1.0.0-SNAPSHOT</clirr.comparisonVersion>
     <module.name>org.mybatis.ibatis2mybatis</module.name>
 
